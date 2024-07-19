@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hyonbokan)](https://github.com/hyonbokan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonbokan&layout=compact)](https://github.com/hyonbokan)
 <!--
 **hyonbokan/hyonbokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
