@@ -29,7 +29,6 @@
 
 ### **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-<!-- [![Personal Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://yourwebsite.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khen-bo-kan-2909a716b/)
 
 ---
