@@ -24,8 +24,7 @@
 
 [![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyonbokan\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/hyonbokan/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonbokan\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/hyonbokan/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonbokan&show_icons=true&theme=dark&hide=jupyter%20notebook,html)](https://github.com/hyonbokan/github-readme-stats)
 ---
 
 ### **Connect with Me**
