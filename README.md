@@ -1,34 +1,14 @@
-## Hello. My name is Khen Bo (KB).
+<h1 align="center">Hi, I'm Khen Bo (KB) 👋</h1>
 
-### **Technologies & Tools**
+### 🚀 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+- 🔭 I'm currently building [**AuditAgent**](https://auditagent.nethermind.io/) at **Nethermind**, an LLM agent for automated vulnerability detection.
+- 📄 First-author paper published in **IEEE Network** (2024) — [read it](https://ieeexplore.ieee.org/document/10583947).
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khen-bo-kan-2909a716b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://khenbokan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:hyonbokan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
-
----
-
-### **GitHub Stats**
-
-[![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyonbokan\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/hyonbokan/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonbokan&show_icons=true&theme=dark&hide=jupyter%20notebook,html,swift)](https://github.com/hyonbokan/github-readme-stats)
----
-
-### **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khen-bo-kan-2909a716b/)
-
----
